@@ -1,0 +1,15 @@
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\bin\Debug\net10.0\Exercise_7.exe
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\bin\Debug\net10.0\Exercise_7.deps.json
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\bin\Debug\net10.0\Exercise_7.runtimeconfig.json
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\bin\Debug\net10.0\Exercise_7.dll
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\bin\Debug\net10.0\Exercise_7.pdb
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\Exercise_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\Exercise_7.AssemblyInfoInputs.cache
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\Exercise_7.AssemblyInfo.cs
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\Exercise_7.csproj.CoreCompileInputs.cache
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\Exercise_7.sourcelink.json
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\Exercise_7.dll
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\refint\Exercise_7.dll
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\Exercise_7.pdb
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\Exercise_7.genruntimeconfig.cache
+C:\cognizant_repo\Digital-Nurture-DotNetFSE\DotNet FSE\Deepskilling\Engineering concepts\Algorithms_Data_Structures\Exercise_7\obj\Debug\net10.0\ref\Exercise_7.dll
